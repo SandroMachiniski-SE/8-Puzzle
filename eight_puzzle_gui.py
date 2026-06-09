@@ -1,3 +1,5 @@
+## Sandro Marcos Machiniski
+
 import tkinter as tk
 from tkinter import messagebox
 import heapq
